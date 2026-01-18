@@ -15,8 +15,6 @@ It presents multiple-choice questions, tracks score in real time, and shows a fi
 - JavaFX
 - Gradle
 
-## Screenshot
-![Quiz UI](screenshots/quiz-ui.png)
 
 ## How to Run
 ### Requirements
